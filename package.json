@@ -1,11 +1,11 @@
 {
   "name": "tg-gemini-bot",
-  "version": "1.1.0",
-  "description": "Telegram bot menggunakan Google Gemini API + Azan notifier",
+  "version": "2.0.0",
+  "description": "Telegram bot menggunakan Google Gemini API + Azan notifier (modular)",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "engines": {
     "node": ">=18.17.0"
